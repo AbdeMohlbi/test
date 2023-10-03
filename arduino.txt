@@ -1,0 +1,13 @@
+Carte arduino NANO :   1100 DA
+
+Microcontrôleur: ATmega 328
+Tension de fonctionnement: 5 V
+Tension d'alimentation (recommandée): 7 - 12 V
+Tension d'alimentation (limites): 6 - 20V
+Nombre d'E/S: 14 (dont 6 pouvant générer des signaux PWM)
+Nb ports "Analogique/Numérique": 8
+Courant max. par E/S: 40 mA
+Mémoire Flash: 32 KB (ATmega328) dont 4 KB utilisé par le bootloader
+SRAM: 4 KB (ATmega328)
+EEPROM: 2 KB (ATmega328)
+Vitesse horloge: 16 MHZ
